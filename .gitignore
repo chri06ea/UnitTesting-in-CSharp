@@ -1,0 +1,5 @@
+*bin/
+.vs
+*obj/
+*TestResults/
+*coverage_report/
